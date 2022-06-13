@@ -12,7 +12,7 @@ main {
 
 #welcome {
     width: 95vw;
-    background-image: url(../img/atendente-farmacia.jfif);
+    background-image: url(../img/atendente-farmacia.jpg);
     background-size: 95vw;
     background-repeat: no-repeat;
     display: flex;

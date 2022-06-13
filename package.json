@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Pererinha015/projeto-farmacia/issues"
   },
-  "homepage": "https://github.com/Pererinha015/projeto-farmacia#readme"
+  "homepage": "https://github.com/Pererinha015/projeto-farmacia#readme",
+  "dependencies": {
+    "query-string": "^7.1.1"
+  }
 }
